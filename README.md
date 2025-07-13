@@ -15,8 +15,9 @@ Install dependencies:
 
 ## How to Run
 ---
-* Make sure your webcam is connected.
-* Open a terminal in this project's folder.
+Make sure your webcam is connected.
+
+Open a terminal in this project's folder.
 
 Run:
 `python main.py`
