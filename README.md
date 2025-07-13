@@ -4,7 +4,7 @@ This is a personal Python project that uses your webcam and hand gestures to sim
 
 It uses **MediaPipe** for hand tracking and **directkeys** for sending key presses.
 
-## ✅ Requirements
+## Requirements
 ---
 * Python 3.x
 * A webcam
@@ -13,7 +13,7 @@ It uses **MediaPipe** for hand tracking and **directkeys** for sending key press
 Install dependencies:
 `pip install -r requirements.txt`
 
-## ▶️ How to Run
+## How to Run
 ---
 Make sure your webcam is connected.
 
@@ -31,7 +31,7 @@ The webcam window will open. Use your hands to control:
 
 Press **Q** to quit.
 
-## ⚠️ Notes
+## Notes
 ---
 This is a fun personal experiment — it won't work in every game.
 
