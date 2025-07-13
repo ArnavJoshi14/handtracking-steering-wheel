@@ -8,16 +8,15 @@ It uses **MediaPipe** for hand tracking and **directkeys** for sending key press
 ---
 * Python 3.x
 * A webcam
-* Windows OS (the `directkeys` module is Windows-specific)
+* Windows OS
 
 Install dependencies:
 `pip install -r requirements.txt`
 
 ## How to Run
 ---
-Make sure your webcam is connected.
-
-Open a terminal in this project's folder.
+* Make sure your webcam is connected.
+* Open a terminal in this project's folder.
 
 Run:
 `python main.py`
@@ -33,6 +32,5 @@ Press **Q** to quit.
 
 ## Notes
 ---
-This is a fun personal experiment — it won't work in every game.
-
-Make sure your game accepts keyboard inputs for driving.
+* This is a fun personal project — it might not work in every game.
+* Make sure your game accepts keyboard inputs for driving.
