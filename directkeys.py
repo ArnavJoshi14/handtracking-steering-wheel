@@ -1,7 +1,6 @@
 import ctypes
 import time
 
-# ✅ Virtual key scan codes
 W = 0x11
 A = 0x1E
 S = 0x1F
